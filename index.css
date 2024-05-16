@@ -201,7 +201,6 @@ sub {
 .card-img {
     width: 100%;
     height: 80%;
-    background-image: url('/image-1.webp');
     background-position: center;
     background-size: cover;
     border-radius: 20px;
