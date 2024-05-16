@@ -195,7 +195,7 @@ sub {
 }
 
 .card-img-1 {
-    background-image: url('/image-1.webp');
+    background-image: url('./image-1.webp');
 }
 
 .card-img {
@@ -211,15 +211,15 @@ sub {
 }
 
 .card-img-2 {
-    background-image: url('/image-2.webp');
+    background-image: url('./image-2.webp');
 }
 
 .card-img-3 {
-    background-image: url('/image-3.webp');
+    background-image: url('./image-3.webp');
 }
 
 .card-img-4 {
-    background-image: url('/image-4.webp');
+    background-image: url('./image-4.webp');
 }
 
 .tags {
